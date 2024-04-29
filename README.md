@@ -1,0 +1,4 @@
+i used the google.code.gson it helps you seamlessly convert JSON strings into Java objects and vice versa, simplifying data exchange between your Java applications and external APIs . 
+i also used Junit4 for unit testing it is a strong testing framework, it allows us to write and execute automated tests, we can also systematically validate each component of our software, detect bugs early on. 
+i also used Junit5.7.0 also used for unit testing helps us empowers  to create comprehensive test suites, comes with some handy features like letting us organize tests better, making it easier to test different situations, and giving clearer messages when something goes wrong. 
+the open weather app api get the weather information for accessing current weather data, forecasts, and historical weather information for any location worldwide. You can enrich your applications with accurate and up-to-date weather information, enhancing user experience and functionality.
